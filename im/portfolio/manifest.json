@@ -1,0 +1,159 @@
+{
+  "featured": [
+    "im/portfolio/CCTV_cctv_1.jpg",
+    "im/portfolio/network_nt_1.jpg",
+    "im/portfolio/software_sw_1.jpg"
+  ],
+  "items": [
+    {
+      "img": "im/portfolio/CCTV_cctv_1.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_10.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_2.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_3.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_4.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_6.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_7.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_8.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/CCTV_cctv_9.jpg",
+      "title": "CCTV",
+      "category": "CCTV",
+      "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
+    },
+    {
+      "img": "im/portfolio/network_nt_1.jpg",
+      "title": "Network",
+      "category": "Network",
+      "desc": "Core/Distribution/Access • QoS • VLAN • Wi‑Fi"
+    },
+    {
+      "img": "im/portfolio/network_nt_2.jpg",
+      "title": "Network",
+      "category": "Network",
+      "desc": "Core/Distribution/Access • QoS • VLAN • Wi‑Fi"
+    },
+    {
+      "img": "im/portfolio/network_nt_3.jpg",
+      "title": "Network",
+      "category": "Network",
+      "desc": "Core/Distribution/Access • QoS • VLAN • Wi‑Fi"
+    },
+    {
+      "img": "im/portfolio/software_sw_1.jpg",
+      "title": "Software",
+      "category": "Software",
+      "desc": "Dashboard / API / Integration"
+    },
+    {
+      "img": "im/portfolio/software_sw_2.jpg",
+      "title": "Software",
+      "category": "Software",
+      "desc": "Dashboard / API / Integration"
+    },
+    {
+      "img": "im/portfolio/software_sw_3.jpg",
+      "title": "Software",
+      "category": "Software",
+      "desc": "Dashboard / API / Integration"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_1.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_10.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_2.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_3.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_4.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_5.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_6.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_7.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_8.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    },
+    {
+      "img": "im/portfolio/accesscontrol_aac_9.jpg",
+      "title": "Access Control",
+      "category": "AccessControl",
+      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+    }
+  ]
+}
