@@ -7,151 +7,151 @@
   "items": [
     {
       "img": "im/portfolio/CCTV_cctv_1.jpg",
-      "title": "CCTV",
+      "title": "โครงการ Jade Praise สาทร – พระราม 3",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_10.jpg",
-      "title": "CCTV",
+      "title": "โครงการ หมู่บ้านเดอะวิชั้น นวมินทร์ 85",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_2.jpg",
-      "title": "CCTV",
+      "title": "โครงการ เดอะโคลเวอร์ ทองหล่อ",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_3.jpg",
-      "title": "CCTV",
+      "title": "โครงการ โกลเด้น ทาวน์ รามอินทรา-วงแหวน",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_4.jpg",
-      "title": "CCTV",
+      "title": "โครงการ หมู่บ้านกรูฟวิล บางนา",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_6.jpg",
-      "title": "CCTV",
+      "title": "โรงเรียนวัดบางบัวทอง",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_7.jpg",
-      "title": "CCTV",
+      "title": "โรงงาน โอดีลส์ พลัส",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_8.jpg",
-      "title": "CCTV",
+      "title": "โครงการ รอยัล ปาร์ค วิลล์ รามคำแหง 65",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/CCTV_cctv_9.jpg",
-      "title": "CCTV",
+      "title": "หมู่บ้านเดอะวิชั้น นวมินทร์ 85",
       "category": "CCTV",
       "desc": "ติดตั้งและเดินระบบ กล้องวงจรปิดทั้งพื้นที่โครงการ"
     },
     {
       "img": "im/portfolio/network_nt_1.jpg",
-      "title": "Network",
+      "title": "โรงเรียนหลวงพ่อปานคลองด่านอนุสรณ์",
       "category": "Network",
-      "desc": "Core/Distribution/Access • QoS • VLAN • Wi‑Fi"
+      "desc": "ติอตั้งระบบ Network ทั้งพื้นที่โรงเรียน AP • QoS • VLAN • Wi‑Fi • Sever "
     },
     {
       "img": "im/portfolio/network_nt_2.jpg",
-      "title": "Network",
+      "title": "โรงแรม ดีพร้อม พัทยา",
       "category": "Network",
-      "desc": "Core/Distribution/Access • QoS • VLAN • Wi‑Fi"
+      "desc": "ตั้งตั้งระบบ Network สำหรับโรงแรมทั้งพื้นที่ AP • QoS • VLAN • Wi‑Fi"
     },
     {
       "img": "im/portfolio/network_nt_3.jpg",
-      "title": "Network",
+      "title": "สหกรณ์ออมทรัพย์ครูนนทบุรี จำกัด",
       "category": "Network",
-      "desc": "Core/Distribution/Access • QoS • VLAN • Wi‑Fi"
+      "desc": "ติอตั้งระบบ Network ทั้งพื้นที่โรงเรียน AP • QoS • VLAN • Wi‑Fi • Sever "
     },
     {
       "img": "im/portfolio/software_sw_1.jpg",
-      "title": "Software",
+      "title": "ระบบจัดการโรงผลิต และคงคลัง",
       "category": "Software",
-      "desc": "Dashboard / API / Integration"
+      "desc": "Dashboard / API / Integration / Customs"
     },
     {
       "img": "im/portfolio/software_sw_2.jpg",
-      "title": "Software",
+      "title": "ระบบ บริหารฝ่ายบุคคลครบวงจร",
       "category": "Software",
-      "desc": "Dashboard / API / Integration"
+      "desc": "Dashboard / API / Integration / KPi / Payrolls / Holidays / Time Attendant"
     },
     {
       "img": "im/portfolio/software_sw_3.jpg",
-      "title": "Software",
+      "title": "Mobile Application และ เว็ปไซต์",
       "category": "Software",
-      "desc": "Dashboard / API / Integration"
+      "desc": "Dashboard / API / Integration / Form "
     },
     {
       "img": "im/portfolio/accesscontrol_aac_1.jpg",
-      "title": "Access Control",
-      "category": "AccessControl",
+      "title": "โครการ สราญวิริ พระราม2",
+      "category": "งานไม้กั้น ระบบหัวอ่าน ทางเข้า-ออก",
       "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_10.jpg",
-      "title": "Access Control",
-      "category": "AccessControl",
+      "title": "บริษัท อินเทลลิเจนท์ บิซิเนส ซอฟต์แวร์ โซลูชั่น (ประเทศไทย)",
+      "category": "ติดตั้งระะบคีย์การ์ด เข้าออก",
       "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_2.jpg",
-      "title": "Access Control",
+      "title": "โครงการ Circle Sukhumvit 31 ",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": " งานระบบไม้กั้น / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_3.jpg",
-      "title": "Access Control",
+      "title": "โครงการ Jade Praise สาทร – พระราม 3",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": "งานระบบไม้กั้น / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_4.jpg",
-      "title": "Access Control",
+      "title": "โครงการ ซันทูมูน เรสซิเด้นซ์",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": "งานระบบไม้กั้น / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_5.jpg",
-      "title": "Access Control",
+      "title": "โครงการ ริชพาร์ค แอท เตาปูน ",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": "งานระบบไม้กั้น / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_6.jpg",
-      "title": "Access Control",
+      "title": "โครงการ หมู่บ้าน มัณฑนา แจ้งวัฒนะ-ราชพฤกษ์",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": "งานระบบไม้กั้น / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_7.jpg",
-      "title": "Access Control",
+      "title": "โครงการ หมู่บ้านเดอะวิชั้น นวมินทร์ 85",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": "งานระบบไม้กั้น / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_8.jpg",
-      "title": "Access Control",
+      "title": "โรงแรม DeeProm Pattaya Hotel ",
       "category": "AccessControl",
-      "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
+      "desc": "ระบบAccess Control เข้าออกทั้งระบบ / Auto door / Barrier / Visitor / Integration HR/LDAP"
     },
     {
       "img": "im/portfolio/accesscontrol_aac_9.jpg",
-      "title": "Access Control",
+      "title": "โรงงาน UMC Electronics (Thailand) Co., LTD.",
       "category": "AccessControl",
       "desc": "Auto door / Barrier / Visitor / Integration HR/LDAP"
     }
